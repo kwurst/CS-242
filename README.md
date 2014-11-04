@@ -20,7 +20,6 @@ Upon successful completion of this course, students will be able to:
 * Document code for other programmers, users of modules, users of programs (Emphasis)
 * Construct and debug programs using the standard libraries available in Java programming language (Emphasis)
 * Compare multiple designs or implementations for a problem using various data structures. (Emphasis)
-* 
 
 ## LASC Quantitative Reasoning Across the Curriculum Objectives
 This course will:
