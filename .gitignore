@@ -1,3 +1,8 @@
+# XLS and XLSX files in course folders often contain student information
+# so, don't commit them
+*.xls
+*.xlsx
+
 # Output files #
 ################
 *.html
